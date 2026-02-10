@@ -15,6 +15,8 @@ Install dependencies from setup.py:
 pip install -e .
 ```
 
+## Running
+
 Save the event log in the "event_log" folder.
 
 Run the generator:
