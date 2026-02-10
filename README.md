@@ -19,7 +19,7 @@ Set the CSV column names in `log_to_synth.py` (`CASEID_COL`, `ACTIVITY_COL`, `TI
 
 ## Running
 
-Save the event log in the "event_log" folder.
+Save the event log in the `event_log` folder.
 
 Run the generator:
 
