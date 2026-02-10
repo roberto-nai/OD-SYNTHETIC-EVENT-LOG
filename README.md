@@ -15,4 +15,12 @@ Install dependencies from setup.py:
 pip install -e .
 ```
 
+Save the event log in the "event_log" folder.
+
+Run the generator:
+
+```bash
+python log_to_synth.py
+```
+
 The event log is not public due to privacy constraints; contact the corresponding author for access (roberto.nai@unito.it)
